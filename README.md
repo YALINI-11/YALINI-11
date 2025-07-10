@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yazhini!
+### Hi there 👋 I'm Yalini!
 
 🎓 B.Tech Artificial Intelligence & Data Science  
 🔭 Exploring: Image Recognition, Chatbots, Data Visualization  
